@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KalinA\\source\\repos\\SumOfFiveNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9139869F-AB7B-428B-96AF-D2710C49FAA2}|SumOfFiveNumbersTest\\SumOfFiveNumbersTest.csproj|c:\\users\\kalina\\source\\repos\\sumoffivenumbers\\sumoffivenumberstest\\sumoffivenumberstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139869F-AB7B-428B-96AF-D2710C49FAA2}|SumOfFiveNumbersTest\\SumOfFiveNumbersTest.csproj|solutionrelative:sumoffivenumberstest\\sumoffivenumberstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC57586-145E-4C31-93E2-33AFA27396E2}|SumOfFiveNumbers\\SumOfFiveNumbers.csproj|c:\\users\\kalina\\source\\repos\\sumoffivenumbers\\sumoffivenumbers\\sumoffivenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC57586-145E-4C31-93E2-33AFA27396E2}|SumOfFiveNumbers\\SumOfFiveNumbers.csproj|solutionrelative:sumoffivenumbers\\sumoffivenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1808,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumOfFiveNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SumOfFiveNumbers\\SumOfFiveNumbers\\SumOfFiveNumbers.cs",
+              "RelativeDocumentMoniker": "SumOfFiveNumbers\\SumOfFiveNumbers.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SumOfFiveNumbers\\SumOfFiveNumbers\\SumOfFiveNumbers.cs",
+              "RelativeToolTip": "SumOfFiveNumbers\\SumOfFiveNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:56:55.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumOfFiveNumbersTest.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SumOfFiveNumbers\\SumOfFiveNumbersTest\\SumOfFiveNumbersTest.cs",
+              "RelativeDocumentMoniker": "SumOfFiveNumbersTest\\SumOfFiveNumbersTest.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SumOfFiveNumbers\\SumOfFiveNumbersTest\\SumOfFiveNumbersTest.cs",
+              "RelativeToolTip": "SumOfFiveNumbersTest\\SumOfFiveNumbersTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:56:43.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
